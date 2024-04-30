@@ -4,8 +4,15 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&text=안지연%20깃허브%20목차&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=안지연%20깃허브%20목차&fontSize=70)
 
+# 목차
+#### 주언어
+#### 프로젝트 저장소 종류
+#### 그 외 
+
+
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon)](https://github.com/TheBeginnerJiyeon/github-readme-stats)
 
 
