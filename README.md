@@ -1,4 +1,8 @@
 <!-- 시간날 때 깔끔할 때 천천히 꾸미기.. 좋은 인상을 위해 ^^ html 문법 + markdown -->
+<!-- 어떤 언어들을 할 수 있는지, 한눈에 알 수 있게 내 깃허브의 인덱스를 만들자 --> 
+<!-- https://cafe.naver.com/githubstudy/7 -->
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
@@ -41,7 +45,7 @@
 
 
 
-https://cafe.naver.com/githubstudy/7
+
 
 
 
