@@ -4,7 +4,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=180&section=header&text=안지연%20깃허브%20목차&fontSize=70)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon)](https://github.com/TheBeginnerJiyeon/github-readme-stats)
 
