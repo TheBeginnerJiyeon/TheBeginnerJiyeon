@@ -2,6 +2,7 @@
 <!-- 어떤 언어들을 할 수 있는지, 한눈에 알 수 있게 내 깃허브의 인덱스를 만들자 --> 
 <!-- https://cafe.naver.com/githubstudy/7 -->
 
+나중에 auto window 종류별로 다 나눠서 저장소에 저장할 것..
 
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=180&section=header&text=안지연%20깃허브%20목차&fontSize=70)
