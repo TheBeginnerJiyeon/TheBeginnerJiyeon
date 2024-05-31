@@ -49,6 +49,16 @@
 
 
 
+## 최근 블로그 포스트
+- [블로그 포스트 제목 1](https://example.com/blog1)
+- [블로그 포스트 제목 2](https://example.com/blog2)
+
+## 소셜 링크
+- [LinkedIn](https://www.linkedin.com/in/username/)
+- [Twitter](https://twitter.com/username)
+
+
+
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
 
