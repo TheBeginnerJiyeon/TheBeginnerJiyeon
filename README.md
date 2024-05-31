@@ -12,7 +12,6 @@
 <br><br><br>
 
 ## 기술 스택
-----
 ![Static Badge](https://img.shields.io/badge/python-blue)
  ![Static Badge](https://img.shields.io/badge/java-red)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -29,8 +28,13 @@
 
 <br><br><br>
 
+## 기트허브 통계 그래프
+
 <img src="https://github-readme-stats.vercel.app/api?username=TheBeginnerJiyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon)](https://github.com/TheBeginnerJiyeon/github-readme-stats)
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
