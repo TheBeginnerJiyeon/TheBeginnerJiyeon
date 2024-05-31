@@ -44,8 +44,6 @@
 
 <br><br><br>
 
-## 커밋 이력
-<img src="https://github.com/junia3/TheBeginnerJiyeon/blob/output/mysnake.svg" width="100%">
 
 
 
