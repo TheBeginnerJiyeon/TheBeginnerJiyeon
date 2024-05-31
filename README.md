@@ -25,16 +25,17 @@
 - [**Project 1**](https://github.com/TheBeginnerJiyeon/jy_project): 고양이 입양 홈페이지 프로젝트 (사용된 기술: java, spring)
 - [**Project 2**](): 설명 (사용된 기술: )
 
+<br><br>
 
-<br><br><br>
-
-## 기트허브 통계 그래프
+## 기트허브 통계 그래프1
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheBeginnerJiyeon&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon)](https://github.com/TheBeginnerJiyeon/github-readme-stats)
+## 기트허브 통계 그래프2
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
