@@ -23,7 +23,7 @@
 
 
 ## 주요 프로젝트
-- [**Project 1**](): 설명 (사용된 기술: )
+- [**Project 1**](https://github.com/TheBeginnerJiyeon/jy_project): 고양이 입양 홈페이지 프로젝트 (사용된 기술: java, spring)
 - [**Project 2**](): 설명 (사용된 기술: )
 
 
