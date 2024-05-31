@@ -37,6 +37,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBeginnerJiyeon&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 
 
+<br><br><br>
+
+##  활동 이력
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheBeginnerJiyeon&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+
+<br><br><br>
+
+## 커밋 이력
+<img src="https://github.com/junia3/TheBeginnerJiyeon/blob/output/mysnake.svg" width="100%">
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
