@@ -7,6 +7,9 @@
 에 관심을 가지고 웹 애플리케이션을 학습 중입니다.
 - 👻 이메일: jyu35467@gmail.com
 
+
+<br><br><br>
+
 ## 기술 스택
 ----
 ![Static Badge](https://img.shields.io/badge/python-blue)
