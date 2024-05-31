@@ -1,4 +1,5 @@
-# 반갑습니다, 저는 백엔드개발자가 되길 희망하는 안지연입니다 ^0^
+# 반갑습니다   
+저는 백엔드개발자가 되길 희망하는 안지연입니다 ^0^
 ----
 - 👻 현재는 ![Static Badge](https://img.shields.io/badge/python-blue)
 와 ![Static Badge](https://img.shields.io/badge/java-red)을 사용할 수 있습니다.
