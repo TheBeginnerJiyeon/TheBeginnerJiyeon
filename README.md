@@ -1,7 +1,14 @@
-# 반갑습니다, 저는 백엔드개발자 안지연입니다 ^0^
-- 👻 현재는 **Python**와 **Java**을 사용할 수 있습니다.
+# 반갑습니다, 저는 백엔드개발자가 되길 희망하는 안지연입니다 ^0^
+- 👻 현재는 **Python**와 **Java![Static Badge](https://img.shields.io/badge/java-red)
+**을 사용할 수 있습니다.
 - 👻 **Spring**와 **Spring**에 관심을 가지고 웹 애플리케이션을 학습 중입니다.
 - 👻 이메일: jyu35467@gmail.com
+
+
+
+
+
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
