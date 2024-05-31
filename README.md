@@ -18,6 +18,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+<br><br><br>
+
+
+## 주요 프로젝트
+- [**Project 1**](): 설명 (사용된 기술: )
+- [**Project 2**](): 설명 (사용된 기술: )
 
 
 
